@@ -4,8 +4,7 @@ var VERSION = String(Date.now())
 var URLS = [
   '/',
   '/bundle.css',
-  '/bundle.js',
-  'assets/icon.png'
+  '/bundle.js'
 ]
 
 // Respond with cached resources

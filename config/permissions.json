@@ -1,0 +1,41 @@
+[
+  {
+    "name": "dashboard",
+    "permissions": [
+      {
+        "name": "view",
+        "level": "low"
+      }
+    ]
+  },
+  {
+    "name": "campaigns",
+    "permissions": [
+      {
+        "name": "list",
+        "level": "low"
+      },
+      {
+        "name": "edit",
+        "level": "medium"
+      },
+      {
+        "name": "launch",
+        "level": "high"
+      }
+    ]
+  },
+  {
+    "name": "forms",
+    "permissions": [
+      {
+        "name": "view",
+        "level": "low"
+      },
+      {
+        "name": "settings",
+        "level": "medium"
+      }
+    ]
+  }
+]
